@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Starting Autorun"
+echo
+sudo chmod a+rw /dev/ttyS0
+/home/pi/fifthterm/executable1
+
